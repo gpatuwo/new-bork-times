@@ -3,7 +3,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2.5% 0;
+  padding: 10px 0;
+  border-bottom: 1px solid $light-gray;
 }
 
 .left-nav > ul,
@@ -23,7 +24,7 @@
 }
 
 .right-nav > ul > li:last-of-type {
-
+  font-size: 12px;
 }
 
 .left-nav > ul > li:hover,
@@ -37,5 +38,5 @@
 
 
 .right-nav i {
-
+  font-size: 12px;
 }
