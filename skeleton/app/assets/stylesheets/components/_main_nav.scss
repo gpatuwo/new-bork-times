@@ -21,15 +21,16 @@
 
 .right-nav > ul > li {
   padding: 0 2px;
+  border-radius: 5px;
 }
 
 .right-nav > ul > li:last-of-type {
-  font-size: 12px;
+  padding: 6px;
 }
 
 .left-nav > ul > li:hover,
 .right-nav > ul > li:last-of-type:hover {
-  background: $lightest-gray;
+  background: $light-gray;
 }
 
 .left-nav span {
@@ -38,5 +39,5 @@
 
 
 .right-nav i {
-  font-size: 12px;
+  font-size: 16px;
 }
