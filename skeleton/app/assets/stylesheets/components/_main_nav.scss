@@ -10,13 +10,15 @@
 .left-nav > ul,
 .right-nav > ul {
   display: flex;
-
+  font-family: $sans-serif;
 }
 
 .left-nav > ul > li {
   padding: 8px;
   border-radius: 5px;
   margin-right: 11px;
+  font-weight: bold;
+  font-size: 11px;
 }
 
 .right-nav > ul > li {
