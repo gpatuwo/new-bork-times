@@ -1,18 +1,25 @@
 .main-nav {
-
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2.5% 0;
 }
 
 .left-nav > ul,
 .right-nav > ul {
+  display: flex;
 
 }
 
 .left-nav > ul > li {
-
+  padding: 8px;
+  border-radius: 5px;
+  margin-right: 11px;
 }
 
 .right-nav > ul > li {
-
+  padding: 0 2px;
 }
 
 .right-nav > ul > li:last-of-type {
@@ -21,11 +28,11 @@
 
 .left-nav > ul > li:hover,
 .right-nav > ul > li:last-of-type:hover {
-
+  background: $lightest-gray;
 }
 
 .left-nav span {
-
+  padding-left: 2px;
 }
 
 
