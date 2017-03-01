@@ -1,0 +1,32 @@
+.story-1 {
+  background: red;
+
+}
+
+.story-1 ul {
+  list-style: disc;
+  right: 10px;
+}
+
+.story-2 {
+  background: orange;
+}
+
+.story-3 {
+  background: yellow;
+}
+
+.title {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.byline {
+  font-family: $sans-serif;
+  font-size: 10px;
+}
+
+.real-estate-title {
+  font-weight: bold;
+}
