@@ -5,7 +5,7 @@
 /* Attribute selector targeting all elements
 with a class attribute containing 'col-' */
 [class*='col-'] {
-  padding-right: 20px;
+  // padding-right: 1px;
 }
 
 [class*='col-']:last-of-type {

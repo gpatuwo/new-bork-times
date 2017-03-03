@@ -5944,3 +5944,361 @@ Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b
 Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-02-28 16:43:57 -0800
 Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-02-28 16:43:57 -0800
 Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-02-28 16:43:57 -0800
+Started GET "/" for ::1 at 2017-02-28 16:48:39 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (2.9ms)
+  Rendered shared/_main_nav.html.erb (10.8ms)
+  Rendered shared/_masthead.html.erb (2.4ms)
+  Rendered shared/_sections_nav.html.erb (1.3ms)
+  Rendered shared/_search_modal.html.erb (3.8ms)
+  Rendered shared/_main_content.html.erb (4.8ms)
+  Rendered static_pages/index.html.erb within layouts/application (44.6ms)
+Completed 200 OK in 157ms (Views: 136.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1" for ::1 at 2017-02-28 16:48:40 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 16:48:40 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 16:48:40 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 16:48:40 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-02-28 16:48:40 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-02-28 16:48:40 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-02-28 16:48:40 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-02-28 16:48:40 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-02-28 16:48:40 -0800
+Started GET "/" for ::1 at 2017-02-28 16:49:15 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (1.9ms)
+  Rendered shared/_main_nav.html.erb (6.1ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (2.0ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (22.3ms)
+Completed 200 OK in 63ms (Views: 59.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1" for ::1 at 2017-02-28 16:49:15 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-28 16:49:15 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-28 16:49:15 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-28 16:49:15 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-02-28 16:49:15 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-02-28 16:49:16 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-02-28 16:49:16 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-02-28 16:49:16 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-02-28 16:49:16 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488329408355" for ::1 at 2017-02-28 16:50:08 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488329408359" for ::1 at 2017-02-28 16:50:08 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488329435412" for ::1 at 2017-02-28 16:50:35 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488329435415" for ::1 at 2017-02-28 16:50:35 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488329462265" for ::1 at 2017-02-28 16:51:02 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488329462267" for ::1 at 2017-02-28 16:51:02 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488329462267" for ::1 at 2017-03-01 12:45:07 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488401616661" for ::1 at 2017-03-01 12:53:36 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488401616650" for ::1 at 2017-03-01 12:53:36 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488401624453" for ::1 at 2017-03-01 12:53:44 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488401624456" for ::1 at 2017-03-01 12:53:44 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488401627713" for ::1 at 2017-03-01 12:53:47 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488401627715" for ::1 at 2017-03-01 12:53:47 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488401635724" for ::1 at 2017-03-01 12:53:55 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488401635726" for ::1 at 2017-03-01 12:53:55 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488401637117" for ::1 at 2017-03-01 12:53:57 -0800
+Started GET "/assets/application.self-e57a1c3c017a8303629b7e9b0fc3467a7db2717ca6fbe0beb67424afe8c55ffb.css?body=1&livereload=1488401637119" for ::1 at 2017-03-01 12:53:57 -0800
+Started GET "/" for ::1 at 2017-03-01 12:54:38 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (31.7ms)
+  Rendered shared/_main_nav.html.erb (40.8ms)
+  Rendered shared/_masthead.html.erb (5.9ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (2.3ms)
+  Rendered shared/_main_content.html.erb (3.1ms)
+  Rendered static_pages/index.html.erb within layouts/application (69.7ms)
+Completed 200 OK in 162ms (Views: 154.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 12:54:38 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 12:54:38 -0800
+Started GET "/assets/application.self-d67b53259a492b21a1b7b714aabf0f667afd889a6dc953b780ff9d95d83809a0.css?body=1" for ::1 at 2017-03-01 12:54:38 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 12:54:38 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 12:54:38 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 12:54:38 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 12:54:38 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 12:54:38 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 12:54:38 -0800
+Started GET "/" for ::1 at 2017-03-01 12:55:11 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (1.9ms)
+  Rendered shared/_main_nav.html.erb (8.3ms)
+  Rendered shared/_masthead.html.erb (3.4ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.6ms)
+  Rendered shared/_main_content.html.erb (7.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (35.4ms)
+Completed 200 OK in 85ms (Views: 80.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-d67b53259a492b21a1b7b714aabf0f667afd889a6dc953b780ff9d95d83809a0.css?body=1" for ::1 at 2017-03-01 12:55:11 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 12:55:11 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 12:55:11 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 12:55:11 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 12:55:11 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 12:55:11 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 12:55:11 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 12:55:11 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 12:55:11 -0800
+Started GET "/" for ::1 at 2017-03-01 12:55:23 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (2.2ms)
+  Rendered shared/_main_nav.html.erb (17.0ms)
+  Rendered shared/_masthead.html.erb (4.0ms)
+  Rendered shared/_sections_nav.html.erb (5.8ms)
+  Rendered shared/_search_modal.html.erb (1.9ms)
+  Rendered shared/_main_content.html.erb (8.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (65.1ms)
+Completed 200 OK in 159ms (Views: 147.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-d67b53259a492b21a1b7b714aabf0f667afd889a6dc953b780ff9d95d83809a0.css?body=1" for ::1 at 2017-03-01 12:55:24 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 12:55:24 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 12:55:24 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 12:55:24 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 12:55:24 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 12:55:24 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 12:55:24 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 12:55:24 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 12:55:24 -0800
+Started GET "/" for ::1 at 2017-03-01 12:55:46 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (3.9ms)
+  Rendered shared/_main_nav.html.erb (14.7ms)
+  Rendered shared/_masthead.html.erb (2.0ms)
+  Rendered shared/_sections_nav.html.erb (2.0ms)
+  Rendered shared/_search_modal.html.erb (2.0ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (45.1ms)
+Completed 200 OK in 139ms (Views: 129.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-d67b53259a492b21a1b7b714aabf0f667afd889a6dc953b780ff9d95d83809a0.css?body=1" for ::1 at 2017-03-01 12:55:47 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 12:55:47 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 12:55:47 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 12:55:47 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 12:55:47 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 12:55:47 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 12:55:47 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 12:55:47 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 12:55:47 -0800
+Started GET "/" for ::1 at 2017-03-01 12:56:17 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (3.8ms)
+  Rendered shared/_masthead.html.erb (1.7ms)
+  Rendered shared/_sections_nav.html.erb (9.3ms)
+  Rendered shared/_search_modal.html.erb (6.2ms)
+  Rendered shared/_main_content.html.erb (3.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (36.5ms)
+Completed 200 OK in 67ms (Views: 63.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-d67b53259a492b21a1b7b714aabf0f667afd889a6dc953b780ff9d95d83809a0.css?body=1" for ::1 at 2017-03-01 12:56:18 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 12:56:18 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 12:56:18 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 12:56:18 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 12:56:18 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 12:56:18 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 12:56:18 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 12:56:18 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 12:56:18 -0800
+Started GET "/assets/application.self-d67b53259a492b21a1b7b714aabf0f667afd889a6dc953b780ff9d95d83809a0.css?body=1&livereload=1488401799769" for ::1 at 2017-03-01 12:56:39 -0800
+Started GET "/assets/application.self-d67b53259a492b21a1b7b714aabf0f667afd889a6dc953b780ff9d95d83809a0.css?body=1&livereload=1488401799773" for ::1 at 2017-03-01 12:56:39 -0800
+Started GET "/assets/application.self-d67b53259a492b21a1b7b714aabf0f667afd889a6dc953b780ff9d95d83809a0.css?body=1&livereload=1488401815284" for ::1 at 2017-03-01 12:56:55 -0800
+Started GET "/assets/application.self-d67b53259a492b21a1b7b714aabf0f667afd889a6dc953b780ff9d95d83809a0.css?body=1&livereload=1488401815286" for ::1 at 2017-03-01 12:56:55 -0800
+Started GET "/assets/application.self-d67b53259a492b21a1b7b714aabf0f667afd889a6dc953b780ff9d95d83809a0.css?body=1&livereload=1488401827748" for ::1 at 2017-03-01 12:57:07 -0800
+Started GET "/assets/application.self-d67b53259a492b21a1b7b714aabf0f667afd889a6dc953b780ff9d95d83809a0.css?body=1&livereload=1488401827751" for ::1 at 2017-03-01 12:57:07 -0800
+Started GET "/" for ::1 at 2017-03-01 12:57:59 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (2.0ms)
+  Rendered shared/_main_nav.html.erb (5.9ms)
+  Rendered shared/_masthead.html.erb (4.6ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (5.8ms)
+  Rendered shared/_main_content.html.erb (4.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (33.1ms)
+Completed 200 OK in 78ms (Views: 75.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c86e29e27c2c40b5115f54c51a718c11919a9b67c5f54fed492d53378ec77b77.css?body=1" for ::1 at 2017-03-01 12:57:59 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 12:57:59 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 12:57:59 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 12:57:59 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 12:57:59 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 12:57:59 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 12:57:59 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 12:57:59 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 12:57:59 -0800
+Started GET "/assets/application.self-c86e29e27c2c40b5115f54c51a718c11919a9b67c5f54fed492d53378ec77b77.css?body=1&livereload=1488403741191" for ::1 at 2017-03-01 13:29:01 -0800
+Started GET "/assets/application.self-c86e29e27c2c40b5115f54c51a718c11919a9b67c5f54fed492d53378ec77b77.css?body=1&livereload=1488403741196" for ::1 at 2017-03-01 13:29:01 -0800
+Started GET "/" for ::1 at 2017-03-01 13:29:13 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (4.7ms)
+  Rendered shared/_main_nav.html.erb (11.3ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (1.2ms)
+  Rendered shared/_search_modal.html.erb (1.9ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (30.1ms)
+Completed 200 OK in 86ms (Views: 80.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-9d8eba9be5e15a4b19ff5bb03cca400b97243c0f079f4388844ac9bb44952cd1.css?body=1" for ::1 at 2017-03-01 13:29:13 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 13:29:13 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 13:29:13 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 13:29:13 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 13:29:13 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 13:29:13 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 13:29:13 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 13:29:13 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 13:29:13 -0800
+Started GET "/" for ::1 at 2017-03-01 13:29:30 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.5ms)
+  Rendered shared/_main_nav.html.erb (4.8ms)
+  Rendered shared/_masthead.html.erb (3.4ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (4.6ms)
+  Rendered static_pages/index.html.erb within layouts/application (24.1ms)
+Completed 200 OK in 73ms (Views: 67.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-9d8eba9be5e15a4b19ff5bb03cca400b97243c0f079f4388844ac9bb44952cd1.css?body=1" for ::1 at 2017-03-01 13:29:31 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 13:29:31 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 13:29:31 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 13:29:31 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 13:29:31 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 13:29:31 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 13:29:31 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 13:29:31 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 13:29:31 -0800
+Started GET "/assets/application.self-9d8eba9be5e15a4b19ff5bb03cca400b97243c0f079f4388844ac9bb44952cd1.css?body=1&livereload=1488403778427" for ::1 at 2017-03-01 13:29:38 -0800
+Started GET "/assets/application.self-9d8eba9be5e15a4b19ff5bb03cca400b97243c0f079f4388844ac9bb44952cd1.css?body=1&livereload=1488403778430" for ::1 at 2017-03-01 13:29:38 -0800
+Started GET "/" for ::1 at 2017-03-01 13:31:02 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (2.8ms)
+  Rendered shared/_main_nav.html.erb (8.4ms)
+  Rendered shared/_masthead.html.erb (0.8ms)
+  Rendered shared/_sections_nav.html.erb (2.3ms)
+  Rendered shared/_search_modal.html.erb (1.8ms)
+  Rendered shared/_main_content.html.erb (3.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (36.2ms)
+Completed 200 OK in 121ms (Views: 114.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-ba447cf774ffeb41701f314f9256ce5919fae3dc1b523c902fadb19aea101169.css?body=1" for ::1 at 2017-03-01 13:31:02 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 13:31:02 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 13:31:02 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 13:31:02 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 13:31:02 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 13:31:02 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 13:31:02 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 13:31:02 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 13:31:03 -0800
+Started GET "/" for ::1 at 2017-03-01 13:32:18 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.6ms)
+  Rendered shared/_main_nav.html.erb (5.3ms)
+  Rendered shared/_masthead.html.erb (4.5ms)
+  Rendered shared/_sections_nav.html.erb (3.5ms)
+  Rendered shared/_search_modal.html.erb (4.8ms)
+  Rendered shared/_main_content.html.erb (4.8ms)
+  Rendered static_pages/index.html.erb within layouts/application (45.3ms)
+Completed 200 OK in 140ms (Views: 130.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-ba447cf774ffeb41701f314f9256ce5919fae3dc1b523c902fadb19aea101169.css?body=1" for ::1 at 2017-03-01 13:32:19 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 13:32:19 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 13:32:19 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 13:32:19 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 13:32:19 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 13:32:19 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 13:32:19 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 13:32:19 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 13:32:19 -0800
+Started GET "/" for ::1 at 2017-03-01 13:32:34 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (1.9ms)
+  Rendered shared/_main_nav.html.erb (5.0ms)
+  Rendered shared/_masthead.html.erb (3.2ms)
+  Rendered shared/_sections_nav.html.erb (3.3ms)
+  Rendered shared/_search_modal.html.erb (1.6ms)
+  Rendered shared/_main_content.html.erb (3.1ms)
+  Rendered static_pages/index.html.erb within layouts/application (31.3ms)
+Completed 200 OK in 73ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-ba447cf774ffeb41701f314f9256ce5919fae3dc1b523c902fadb19aea101169.css?body=1" for ::1 at 2017-03-01 13:32:34 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 13:32:34 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 13:32:34 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 13:32:34 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 13:32:34 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 13:32:34 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 13:32:34 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 13:32:34 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 13:32:34 -0800
+Started GET "/assets/application.self-ba447cf774ffeb41701f314f9256ce5919fae3dc1b523c902fadb19aea101169.css?body=1&livereload=1488404005425" for ::1 at 2017-03-01 13:33:25 -0800
+Started GET "/assets/application.self-ba447cf774ffeb41701f314f9256ce5919fae3dc1b523c902fadb19aea101169.css?body=1&livereload=1488404005421" for ::1 at 2017-03-01 13:33:25 -0800
+Started GET "/assets/application.self-ba447cf774ffeb41701f314f9256ce5919fae3dc1b523c902fadb19aea101169.css?body=1&livereload=1488404056056" for ::1 at 2017-03-01 13:34:16 -0800
+Started GET "/assets/application.self-ba447cf774ffeb41701f314f9256ce5919fae3dc1b523c902fadb19aea101169.css?body=1&livereload=1488404056054" for ::1 at 2017-03-01 13:34:16 -0800
+Started GET "/" for ::1 at 2017-03-01 13:34:16 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.8ms)
+  Rendered shared/_main_nav.html.erb (6.7ms)
+  Rendered shared/_masthead.html.erb (4.4ms)
+  Rendered shared/_sections_nav.html.erb (4.9ms)
+  Rendered shared/_search_modal.html.erb (0.7ms)
+  Rendered shared/_main_content.html.erb (2.0ms)
+  Rendered static_pages/index.html.erb within layouts/application (41.6ms)
+Completed 200 OK in 171ms (Views: 166.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-7c04d9450b953efeff9857b7b8c206fa4d8621a67656efb129241c9f07317e4a.css?body=1" for ::1 at 2017-03-01 13:34:16 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 13:34:17 -0800
+Started GET "/" for ::1 at 2017-03-01 13:34:30 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (3.0ms)
+  Rendered shared/_masthead.html.erb (4.7ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (6.8ms)
+  Rendered static_pages/index.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 52ms (Views: 49.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-7c04d9450b953efeff9857b7b8c206fa4d8621a67656efb129241c9f07317e4a.css?body=1" for ::1 at 2017-03-01 13:34:30 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-03-01 13:34:30 -0800
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-03-01 13:34:30 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-03-01 13:34:30 -0800
+Started GET "/assets/components/dropdown.self-8396e932f47c9e34318e60252b823fa6432bea237d646e163b2bc27699058e68.js?body=1" for ::1 at 2017-03-01 13:34:30 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2017-03-01 13:34:30 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2017-03-01 13:34:30 -0800
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1" for ::1 at 2017-03-01 13:34:30 -0800
+Started GET "/assets/newborktimes_masthead.png" for ::1 at 2017-03-01 13:34:30 -0800
+Started GET "/assets/application.self-7c04d9450b953efeff9857b7b8c206fa4d8621a67656efb129241c9f07317e4a.css?body=1&livereload=1488404080256" for ::1 at 2017-03-01 13:34:40 -0800
+Started GET "/assets/application.self-7c04d9450b953efeff9857b7b8c206fa4d8621a67656efb129241c9f07317e4a.css?body=1&livereload=1488404080261" for ::1 at 2017-03-01 13:34:40 -0800
+Started GET "/assets/application.self-7c04d9450b953efeff9857b7b8c206fa4d8621a67656efb129241c9f07317e4a.css?body=1&livereload=1488404108188" for ::1 at 2017-03-01 13:35:08 -0800
+Started GET "/assets/application.self-7c04d9450b953efeff9857b7b8c206fa4d8621a67656efb129241c9f07317e4a.css?body=1&livereload=1488404108191" for ::1 at 2017-03-01 13:35:08 -0800
